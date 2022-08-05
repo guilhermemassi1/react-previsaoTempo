@@ -1,0 +1,15 @@
+* {
+  font-family: sans-serif;
+}
+body {
+  background-color: #d5d4d4;
+}
+.App {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+.titlePage {
+  font-size: 30px;
+  text-align: center;
+}
